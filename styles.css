@@ -13,6 +13,10 @@ h1{
     background-color: black;
 }
 
+h1 span{ 
+    color: cornflowerblue;
+}
+
 h2{
     padding: 7px;
     text-align: center;
